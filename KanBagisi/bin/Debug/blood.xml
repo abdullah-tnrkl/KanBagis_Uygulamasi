@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<kan>
+  <xs:schema id="kan" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="kan" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kimlik">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="AdSoyad" type="xs:string" minOccurs="0" />
+                <xs:element name="cinsiyet" type="xs:string" minOccurs="0" />
+                <xs:element name="DogumTarihi" type="xs:string" minOccurs="0" />
+                <xs:element name="AnneBaba" type="xs:string" minOccurs="0" />
+                <xs:element name="Tc" type="xs:string" minOccurs="0" />
+                <xs:element name="Durum" type="xs:string" minOccurs="0" />
+                <xs:element name="GRUP" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kimlik>
+    <AdSoyad>adasd</AdSoyad>
+    <cinsiyet>Kadin</cinsiyet>
+    <DogumTarihi>18.04.2018 00:00:00</DogumTarihi>
+    <AnneBaba>asdasd/asdasd</AnneBaba>
+    <Tc>3223</Tc>
+    <Durum>Evli</Durum>
+    <GRUP>A+</GRUP>
+  </kimlik>
+  <kimlik>
+    <AdSoyad>asda</AdSoyad>
+    <cinsiyet>Kadin</cinsiyet>
+    <DogumTarihi>18.04.2018 00:00:00</DogumTarihi>
+    <AnneBaba>asda3459559/hüso</AnneBaba>
+    <Tc>2324830942375</Tc>
+    <Durum>Bekar</Durum>
+    <GRUP>AB-</GRUP>
+  </kimlik>
+  <kimlik>
+    <AdSoyad>asdaasdasd</AdSoyad>
+    <cinsiyet>Kadin</cinsiyet>
+    <DogumTarihi>18.04.2018 00:00:00</DogumTarihi>
+    <AnneBaba>1/hüsoasşkdlaksd</AnneBaba>
+    <Tc>1</Tc>
+    <Durum>Bekar</Durum>
+    <GRUP>A+</GRUP>
+  </kimlik>
+</kan>

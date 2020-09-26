@@ -1,0 +1,23 @@
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\bin\Debug\KanBagisi.exe.config
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\bin\Debug\KanBagisi.exe
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\bin\Debug\KanBagisi.pdb
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.csprojResolveAssemblyReference.cache
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Form1.resources
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Properties.Resources.resources
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.csproj.GenerateResource.Cache
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.exe
+c:\users\zuvin97\documents\visual studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.pdb
+C:\Users\zuvin97\Documents\Visual Studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Form2.resources
+C:\Users\zuvin97\Documents\Visual Studio 2015\Projects\KanBagisi\KanBagisi\obj\Debug\KanBagisi.login.resources
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\bin\Debug\KanBagisi.exe.config
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\bin\Debug\KanBagisi.exe
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\bin\Debug\KanBagisi.pdb
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Form1.resources
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Form2.resources
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.login.resources
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.exe
+C:\Users\Abdullah\Desktop\KanBagisi\KanBagisi\obj\Debug\KanBagisi.pdb
